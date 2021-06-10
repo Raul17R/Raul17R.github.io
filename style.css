@@ -6,14 +6,12 @@ body{
   margin: 5% 8%;
   background: url("https://i.imgur.com/MJAkxbh.png");
   
+  
 }
 
 
-.exp-header{
-  margin: 4% -1%;
-  text-transform: uppercase;  
-  
-  
+.exp-header{ 
+ margin: 3% %;
   
 }
 
@@ -24,3 +22,28 @@ body{
   background-color: #dddddd;
     
 }
+
+.exp-info{
+  margin: -10% 20%;
+  font-size: 15px;
+  font-family:Arial, Helvetica, sans-serif;
+  border-bottom: 3px solid #ffff;
+}
+h2{
+  margin: 16% 3%;
+}
+
+h3{
+  margin: -3% -4%;
+}
+h4{
+  margin: 4% 2%;
+}
+ul{
+  margin: 2% 5%;
+}
+
+h5{
+  margin: 0% 6%;
+}
+h
