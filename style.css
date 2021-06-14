@@ -2,15 +2,10 @@ body{
 
     
   font-family: Arial, Helvetica, sans-serif;
-  margin: 5% 8%;
+  margin: 2% 6%;
   background: url("https://i.imgur.com/MJAkxbh.png");
   
   
-}
-
-
-.exp-header{ 
- 
   
 }
 
@@ -18,8 +13,16 @@ body{
   text-align: center;
   border-top: 1px solid #dddddd;
   border-bottom: 2px solid #dddddd;
-  background-color: #dddddd;
+  background-color: #60282e;
+  
+  color: #ffff;
     
+}
+
+.exp-work{
+  text-align: center;    
+  background-color: #60282e;  
+  color: #ffff;
 }
 
 .exp-info{
@@ -33,7 +36,7 @@ h2{
 }
 
 h3{
-  margin: -3% -4%;
+  margin: -1% -4%;
 }
 h4{
   margin: 4% 2%;
@@ -45,4 +48,3 @@ ul{
 h5{
   margin: 0% 6%;
 }
-
